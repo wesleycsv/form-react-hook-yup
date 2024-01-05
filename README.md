@@ -1,8 +1,6 @@
-# React + Vite
+# Dashboard - DashPRO  v1.0
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Dashboard cadastro de usuário desenvolvida utilizando as tecnologias como **HTML**, **CSS** e **JAVASCRIPT**, utilizando uma API com node.js. Toda interação logica foi desenvolvida utilizando javascript.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![enter image description here](https://github.com/wesleycsv/DashPRO-v1.0/blob/main/print.png?raw=true)

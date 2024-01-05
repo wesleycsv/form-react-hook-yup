@@ -1,6 +1,14 @@
-# Dashboard - DashPRO  v1.0
+# Formulário de contato com react-hook-form + yup
 
-Dashboard cadastro de usuário desenvolvida utilizando as tecnologias como **HTML**, **CSS** e **JAVASCRIPT**, utilizando uma API com node.js. Toda interação logica foi desenvolvida utilizando javascript.
+Simulação de envio de dados com validações utilizando algumas tecnologias do mercado atual.
 
+## Tecnologias
+* HTML
+* CSS
+* JAVASCRIPT
+* REACT
+* REACT-HOOK-FORM
+* YUP
+* VITE
 
-![enter image description here](https://github.com/wesleycsv/DashPRO-v1.0/blob/main/print.png?raw=true)
+![enter image description here](https://github.com/wesleycsv/form-react-hook-yup/blob/main/Print.png?raw=true)
